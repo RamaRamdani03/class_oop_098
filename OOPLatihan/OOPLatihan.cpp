@@ -24,3 +24,5 @@ void Mahasiswa::printdata() {
 	cout << "\nNamanya : " << nama;
 	cout << "\nnilai : " << nilai;
 }
+
+class Matakuliah {
